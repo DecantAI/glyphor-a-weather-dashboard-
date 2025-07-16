@@ -1,0 +1,41 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "A React application which provides a weather dashboard with detailed charts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/weather-dashboard.git"
+  },
+  "keywords": [
+    "weather",
+    "dashboard",
+    "charts",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/yourusername/weather-dashboard#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0",
+    "axios": "^0.21.1",
+    "recharts": "^2.0.9",
+    "@material-ui/core": "^4.11.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "prettier": "^2.2.1"
+  }
+}
